@@ -1,6 +1,9 @@
 
 # Udacity
 
+## Course Overview
+Overview of the list of courses we're planning to complete.
+
 - [Program](Udacity/Program)
 
 ## Active Courses
