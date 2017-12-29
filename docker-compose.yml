@@ -1,0 +1,11 @@
+version: "2"
+
+services:
+  gollum:
+    image: pjeby/gollum-portable
+    restart: unless-stopped
+    ports:
+      - "4567:4567"
+    volumes:
+      - ".:/data/wiki"
+    env_file: ./gollum-settings.env
