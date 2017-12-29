@@ -4,7 +4,7 @@
 ## Course Overview
 Overview of the list of courses we're planning to complete:
 
-- [Program](Udacity/Program)
+- [Overview](Udacity/Program)
 
 ## Active Courses
 List of courses we're currently working on:
