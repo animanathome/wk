@@ -37,3 +37,11 @@
 - [Robotics Software Engineer](https://www.udacity.com/course/robotics-software-engineer--nd209)
   - Duration: 2 x 4 months 
   - Cost: 2 x $1500
+
+
+### Total
+
+- Total cost = 750 + (6 x 250) + (2 x 1000) + (2 x 1500) = **7250** or **2500** per year
+- Duration = 8 + 8 + 16 + 10 + 8 + 16 + 24 + 24 + 16 + 16 = 146 weeks = **36 months** or 3 years
+  
+
